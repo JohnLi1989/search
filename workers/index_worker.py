@@ -21,7 +21,7 @@ src_conn = mdb.connect(SRC_HOST, SRC_USER, SRC_PASS, 'ssbc', charset='utf8', cur
 src_curr = src_conn.cursor()
 src_curr.execute('SET NAMES utf8')
 
-dst_conn = mdb.connect(DST_HOST, DST_USER, DST_PASS, 'rt_main', port=9306, charset='utf8')
+dst_conn = mdb.connect(DST_HOST, DST_USER, DST_PASS, 'rt_main', port=3306, charset='utf8')
 dst_curr = dst_conn.cursor()
 dst_curr.execute('SET NAMES utf8')
 

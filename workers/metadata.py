@@ -110,6 +110,9 @@ def save_metadata(dbcurr, binhash, address, start_time, data):
     bigfname = files[0]['path']
     info['extension'] = metautils.get_extension(bigfname).lower()
     info['category'] = metautils.get_category(info['extension'])
+    if info['category'] != 'video':
+        return
+
 
     if 'files' in info:
         try:

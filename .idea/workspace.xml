@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5e4afaa-e1a7-4fda-af31-53cab7470160" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/search/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/search/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx.conf" beforeDir="false" afterPath="$PROJECT_DIR$/sphinx.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssbc/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ssbc/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssbc/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ssbc/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/workers/index_worker.py" beforeDir="false" afterPath="$PROJECT_DIR$/workers/index_worker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workers/metadata.py" beforeDir="false" afterPath="$PROJECT_DIR$/workers/metadata.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,10 +58,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index_worker.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index_worker.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/workers/index_worker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
+            <state relative-caret-position="119">
               <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
             </state>
           </provider>
@@ -81,7 +76,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sphinx.conf" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sphinx.conf" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sphinx.conf">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="354">
@@ -136,9 +131,9 @@
         <option value="$PROJECT_DIR$/workers/metadata.py" />
         <option value="$PROJECT_DIR$/ssbc/settings.py" />
         <option value="$PROJECT_DIR$/ssbc/urls.py" />
-        <option value="$PROJECT_DIR$/workers/index_worker.py" />
         <option value="$PROJECT_DIR$/search/models.py" />
         <option value="$PROJECT_DIR$/sphinx.conf" />
+        <option value="$PROJECT_DIR$/workers/index_worker.py" />
       </list>
     </option>
   </component>
@@ -418,13 +413,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/workers/index_worker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/search/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -436,6 +424,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="354">
           <caret line="64" column="23" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workers/index_worker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
         </state>
       </provider>
     </entry>

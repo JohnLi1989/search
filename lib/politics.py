@@ -19,6 +19,6 @@ def is_sensitive(kw):
     return False
 
 load_words()
-is_sensitive(u'习主席')
-is_sensitive(u'Test')
+# is_sensitive(u'习主席')
+# # is_sensitive(u'Test')
 
